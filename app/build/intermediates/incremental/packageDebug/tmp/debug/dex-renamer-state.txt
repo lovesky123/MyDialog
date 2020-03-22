@@ -1,0 +1,4 @@
+#Sun Mar 22 21:28:34 CST 2020
+base.0=E\:\\AS_WORK3.3\\MyDialog\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
